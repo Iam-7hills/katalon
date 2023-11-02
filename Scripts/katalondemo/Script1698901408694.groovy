@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:7070/hanshika/memberRegister.jsp')
+WebUI.navigateToUrl('http://192.168.86.240:7070/hanshika/memberRegister.jsp')
 
 WebUI.setText(findTestObject('Object Repository/Page_Insert title here/input_uname'), FirstName)
 

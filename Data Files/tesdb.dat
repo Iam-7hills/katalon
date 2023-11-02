@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>UserAdd</name>
+   <name>tesdb</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>70c7e2c4-71b6-476f-8f03-914109608c21</dataFileGUID>
+   <dataFileGUID>93a2e52d-5742-4ade-bd67-ffab9d7b27d2</dataFileGUID>
    <dataSourceUrl>C:\Users\vinod\Desktop\katalon\userdata.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
